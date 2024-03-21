@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 
 public class EvenOdd {
@@ -18,10 +18,10 @@ public class EvenOdd {
 
 	}
 }
-*/
 
 
 
+/*
 import java.util.Scanner;
 
 public class EvenOdd {
@@ -41,7 +41,8 @@ public class EvenOdd {
 			System.out.println(n+" 입력된 정수는 홀수입니다.");
 		}
 			
-		
+
 
 	}
 }
+*/
